@@ -109,7 +109,7 @@ Home\\\_Service\\\_Django\\\_Project/
 **Worker Dashboard**
 ![Worker Dashboard](images/screenshot-worker-dashboard.png)
 
-**user– Feedbacks**
+**manage–services **
 ![Admin Manage Services](images/screenshot-admin-manage-services.png)
 
 
