@@ -2,7 +2,8 @@
 
 **Ohas** is a Django-based web platform that connects customers with home appliance service providers (technicians/workers). Users can request repairs and maintenance for appliances like ACs, washing machines, TVs, dishwashers, and refrigerators, while an admin panel handles worker assignment, service categories, and request tracking.
 
-![OHAS Homepage](screenshot-homepage.png)
+## Homepage
+![OHAS Homepage](images/screenshot-homepage.png)
 
 \---
 
@@ -100,16 +101,16 @@ Home\\\_Service\\\_Django\\\_Project/
 ## 🖼️ Screenshots
 
 **Homepage**
-![OHAS Homepage](screenshot-homepage.png)
+![OHAS Homepage](images/screenshot-homepage.png)
 
 **Contact Page**
-![Contact Us](screenshot-contact.png)
+![Contact Us](images/screenshot-contact.png)
 
 **Worker Dashboard**
-![Worker Dashboard](screenshot-worker-dashboard.png)
+![Worker Dashboard](images/screenshot-worker-dashboard.png)
 
-**Admin – Manage Services**
-![Admin Manage Services](screenshot-admin-manage-services.png)
+**user– Feedbacks**
+![Admin Manage Services](images/screenshot-admin-manage-services.png)
 
 
 
